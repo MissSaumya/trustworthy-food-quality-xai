@@ -145,9 +145,10 @@ jupyter lab
 
 ## 📦 Model Weights & Checkpoints
 
-Pretrained model weights (`.pth`) for the 25 configurations are hosted externally due to GitHub file size limits:
-* **Hugging Face Repository**: `[Link will be updated upon upload]`
+Pretrained model checkpoint weights (`.pth`) across all 25 architecture-optimizer configurations are openly hosted on Hugging Face due to GitHub file size limits:
+* **Hugging Face Repository**: https://huggingface.co/mssaumya/trustworthy-food-quality-xai-weights
 * Trained weights can also be requested from the corresponding author.
+
 
 ---
 
